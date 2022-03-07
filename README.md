@@ -11,8 +11,13 @@ This is to build a working site for following *Test Driven Development* (TDD) me
 
 ## Structure
 
-1. Domain-Training-Log.drawio - This is the domain model that was initially worked up for the project. Created using the Draw.io desktop software. Working on modifying as we move along the process. 
-2. Service (folder) - this is where the main application will live (?). Does this follow the service layer
+1. Domain-Training-Log.drawio - This is the domain model that was initially worked up for the project. Created using the Draw.io desktop software.
+    * Working on modifying as we move along the process.
+    * Updated using the APP reference in Chapter 6 Unit of Work figure 6-1. (Don't know if it right or not)
+2. service (folder) - this is where the main application will live. Does this follow the service layer methodology? 
+3. tests (folder) - holds all of the test scripts for checking the application. 
+4. shooterlog.py - main entry into the program.
+
 
 ## Notes
 
