@@ -21,6 +21,10 @@ This is to build a working site for following *Test Driven Development* (TDD) me
 6. tests (folder) - holds all of the test scripts for checking the application. 
 7. shooterlog.py - main entry into the program.
 
+## Current Diagram
+
+![Current Project Domain Diagram](Domain-Training-Log-Domain-UnitOfWork.drawio.png "Current Project Domain Diagram")
+
 
 ## Notes
 
